@@ -1,0 +1,3 @@
+b2sdk
+argparse
+python-dotenv
