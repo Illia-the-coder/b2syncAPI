@@ -7,8 +7,8 @@ Sync files to Backblaze B2 with filtering and multithreading.
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/B2_Command_Line_Tool.git
-    cd B2_Command_Line_Tool
+    git clone https://github.com/Illia-the-coder/b2syncAPI.git
+    cd b2syncAPI
     ```
 
 2. **Install Dependencies**
